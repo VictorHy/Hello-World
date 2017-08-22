@@ -1,2 +1,2 @@
 # Hello-World
-it's a first repository from Git
+it's a first repository for Git
